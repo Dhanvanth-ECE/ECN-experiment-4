@@ -40,13 +40,17 @@ It is the look-back resistance across the load terminals when all the sources ar
 CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM
 
 To measure IL
- 
+ <img width="560" height="250" alt="image" src="https://github.com/user-attachments/assets/84e712f3-1d52-4829-a40c-9aaecd10365d" />
+
 To measure RTh or RN
- 
+ <img width="569" height="246" alt="image" src="https://github.com/user-attachments/assets/4f01660b-17c8-4414-99da-ec218982ec05" />
+
 To measure VTh or Voc
- 
+ <img width="708" height="274" alt="image" src="https://github.com/user-attachments/assets/4b0ecbfe-2651-472e-b334-3fb06b2d66e7" />
+
 Thevenin’s equivalent circuit
- 
+ <img width="734" height="259" alt="image" src="https://github.com/user-attachments/assets/9ef0d5b6-b738-467d-a590-41b26d4b45f1" />
+
 
 
 PROCEDURE:
@@ -85,8 +89,10 @@ PROCEDURE:
 
 
 
+
 TABULAR COLUMN :
  
+<img width="714" height="1054" alt="image" src="https://github.com/user-attachments/assets/1a9608b5-e32e-4701-bdf1-6feb10aa64cf" />
 
 
 
@@ -94,7 +100,11 @@ TABULAR COLUMN :
 
 
 CALCULATION:
- 
+ <img width="708" height="990" alt="image" src="https://github.com/user-attachments/assets/cd4e2bff-5a17-4ef6-83b0-547630e93901" />
+
+MARKS SPLIT UP :
+
+<img width="764" height="373" alt="image" src="https://github.com/user-attachments/assets/06be20fc-88a1-46f4-90cc-e2265aba7160" />
 
 RESULT:
              Thus Thevenin’s theorem is verified theoretically and practically.
